@@ -1,0 +1,7 @@
+{
+    "object_hallucination_ratio": 0.2933343964280019,
+    "attribute_hallucination_ratio": 0.06880880242385584,
+    "counting_hallucination_ratio": 0.0012358475522245256,
+    "position_hallucination_ratio": 0.0018338383033009089,
+    "relationship_hallucination_ratio": 0.008531334715356402
+}
